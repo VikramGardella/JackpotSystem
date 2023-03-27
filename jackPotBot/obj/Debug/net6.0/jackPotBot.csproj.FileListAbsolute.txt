@@ -1,0 +1,15 @@
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.csproj.AssemblyReference.cache
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.AssemblyInfoInputs.cache
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.AssemblyInfo.cs
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.csproj.CoreCompileInputs.cache
+/Users/vik/Projects/jackPotBot/jackPotBot/bin/Debug/net6.0/jackPotBot
+/Users/vik/Projects/jackPotBot/jackPotBot/bin/Debug/net6.0/jackPotBot.deps.json
+/Users/vik/Projects/jackPotBot/jackPotBot/bin/Debug/net6.0/jackPotBot.runtimeconfig.json
+/Users/vik/Projects/jackPotBot/jackPotBot/bin/Debug/net6.0/jackPotBot.dll
+/Users/vik/Projects/jackPotBot/jackPotBot/bin/Debug/net6.0/jackPotBot.pdb
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.dll
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/refint/jackPotBot.dll
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.pdb
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/jackPotBot.genruntimeconfig.cache
+/Users/vik/Projects/jackPotBot/jackPotBot/obj/Debug/net6.0/ref/jackPotBot.dll

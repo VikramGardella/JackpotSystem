@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vik/Projects/jackPotBot/jackPotBot/jackPotBot.csproj": {}
+  },
+  "projects": {
+    "/Users/vik/Projects/jackPotBot/jackPotBot/jackPotBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vik/Projects/jackPotBot/jackPotBot/jackPotBot.csproj",
+        "projectName": "jackPotBot",
+        "projectPath": "/Users/vik/Projects/jackPotBot/jackPotBot/jackPotBot.csproj",
+        "packagesPath": "/Users/vik/.nuget/packages/",
+        "outputPath": "/Users/vik/Projects/jackPotBot/jackPotBot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
