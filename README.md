@@ -1,0 +1,1 @@
+One of the automated systems that I designed for Amazon's CVG2 warehouse facility to automate an entire section ("JackPot") of the facility. This system was projected to significantly cut staffing costs by 100+ man-hours per 24-hour period per similar ReLo facility at which it is implemented.
